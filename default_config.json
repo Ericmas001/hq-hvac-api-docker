@@ -1,0 +1,12 @@
+{
+    "area_mode": "Full",
+    "climate_mode": "Cold",
+    "end_time": -1,
+    "fan_mode": "Auto",
+    "isee_mode": "ISeeOn",
+    "powerful_mode": "PowerfulOff",
+    "start_time": -1,
+    "temperature": 23,
+    "vanne_horizontal_mode": "NotSet",
+    "vanne_vertical_mode": "Auto"
+}
